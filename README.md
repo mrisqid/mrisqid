@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **NodeJs, TypeScript/JavaScript, C#, C++, Python**
 
+- 👯 I’m looking to collaborate on **Open Source Project**
+
 - 📫 How to reach me **mrisqid@gmail.com**
 
 - ⚡ Fun fact **I Keep Learning Tech in 2024 and future also**
