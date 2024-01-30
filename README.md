@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I Keep Learning Tech in 2024 and future also**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrisqid&layout=compact" alt="mrisqid" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrisqid&show_icons=true&theme=transparent" alt="mrisqid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrisqid&show_icons=true&theme=transparent" alt="mrisqid" /></p>
 
 <!--
 **mrisqid/mrisqid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
