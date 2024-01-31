@@ -27,6 +27,11 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mrisqid&show_icons=true&theme=transparent" alt="mrisqid" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ###
