@@ -44,6 +44,10 @@ Bash          22 mins         ▒░░░░░░░░░░░░░░░�
 
 -------
 
+<a href="https://app.daily.dev/mrisqid"><img src="https://api.daily.dev/devcards/v2/Dq4y_fCm5.png?r=0kd&type=default" width="356" alt="Muhammad Risqi Darmawan's Dev Card"/></a>
+
+-------
+
 <!--
 **mrisqid/mrisqid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
