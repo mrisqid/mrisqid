@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mrisqid@gmail.com**
 
-- ⚡ Fun fact **I Keep Learning Tech in 2024 and future also**
+- ⚡ Fun fact **I Keep Learning Tech in 2025 and future also**
 
 -------
 
