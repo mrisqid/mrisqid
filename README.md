@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    803 hrs 31 mins       ███████████████████▒░░░░░   76.77 %
+TypeScript    803 hrs 31 mins       ███████████████████▒░░░░░   76.76 %
 JavaScript    100 hrs 25 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 SQL           52 hrs 50 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 Prisma        20 hrs 31 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
